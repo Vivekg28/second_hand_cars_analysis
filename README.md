@@ -1,3 +1,5 @@
+MySQL project - Cars data analysis<Br>
+
 INFO THAT WAS ASKED:<Br>
 1. TOTAL CARS: TO GET A COUNT OF TOTAL RECORDS<Br>
 

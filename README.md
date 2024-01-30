@@ -1,6 +1,6 @@
-&diams;</h2>MySQL project - Cars data analysis<Br>
+&diams;</h2> MySQL project - Cars data analysis<Br>
 
-INFO THAT WAS ASKED:<u>
+&rarr;</h2> INFO THAT WAS ASKED:<u>
 1. TOTAL CARS: TO GET A COUNT OF TOTAL RECORDS<Br>
 
 2. THE MANAGER ASKED HOW MANY CARS WILL BE AVAILBLE IN 2023 ?<Br>
